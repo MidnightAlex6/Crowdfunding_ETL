@@ -10,6 +10,8 @@ Although our team partners divided the work, it was essential to collaborate and
 
 For this project we used a tool like [QuickDBD](https://app.quickdatabasediagrams.com/#/d/pXfEQb) to sketch our diagram.
 
+![ERD](https://github.com/MidnightAlex6/Crowdfunding_ETL/assets/126301312/a8f01f8a-f6bd-4aa1-85c3-c1e91c25514a)
+
 ## Files
 
 ### Cleaned Data Folder - contains our files after we extracted and transformed our data
