@@ -4,11 +4,36 @@
 
 ## Objectives
 
-For the ETL mini project, you will work with a partner to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After you transform the data, you'll create four CSV files and use the CSV file data to create an ERD and a table schema. Finally, you’ll upload the CSV file data into a Postgres database.
-Since this is a one-week project, make sure that you have done at least half of your project before the third day of class to stay on track.
-Although you and your partner will divide the work, it’s essential to collaborate and communicate while working on different parts of the project. Be sure to check in with your partner regularly and offer support.
+For the ETL mini project, we will worked with a partner to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After we transformed the data, we created four CSV files and used the CSV file data to create an ERD and a table schema. Finally, we uploaded the CSV file data into a Postgres database.
+Since this was a one-week project, we made sure that we had done at least half of our project before the third day of class to stay on track.
+Although our team partners divided the work, it was essential to collaborate and communicate while working on different parts of the project.
+
+For this project we used a tool like [QuickDBD](https://app.quickdatabasediagrams.com/#/d/pXfEQb) to sketch our diagram.
 
 ## Files
+
+### Cleaned Data Folder - contains our files after we extracted and transformed our data
+
+ * campaign.csv
+ * category.csv
+ * contacts.csv
+ * subcategory.csv
+
+### Database Folder - contains our worked related to loading our base into Postgres
+
+ * Database_model.txt
+ * ERD.png 
+ * crowdfunding_db_schema.sql
+
+### Resources Folder
+
+ * Banner.png
+ * Project 2 Instruction.pdf
+ * contacts.xlsx - orginal files 
+ * crowdfunding.xlsx - original files
+
+### ETL_Mini_Project_AValerio_NMarin.ipynb - contains code for extracting and transforming out data
+
 
 ## Collaborators
 
