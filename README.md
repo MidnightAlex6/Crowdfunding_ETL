@@ -39,5 +39,5 @@ For this project we used a tool like [QuickDBD](https://app.quickdatabasediagram
 
 ## Collaborators
 
-  * [Alex](https://github.com/MidnightAlex6)
-  * [Nigan](https://github.com/niganmarin)
+  * [Alex Valerio](https://github.com/MidnightAlex6)
+  * [Nigan Marin](https://github.com/niganmarin)
