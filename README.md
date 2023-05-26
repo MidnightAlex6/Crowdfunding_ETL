@@ -4,7 +4,7 @@
 
 ## Objectives
 
-For the ETL mini project, we will worked with a partner to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After we transformed the data, we created four CSV files and used the CSV file data to create an ERD and a table schema. Finally, we uploaded the CSV file data into a Postgres database.
+For the ETL mini project, we worked with a partner to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After we transformed the data, we created four CSV files and used the CSV file data to create an ERD and a table schema. Finally, we uploaded the CSV file data into a Postgres database.
 Since this was a one-week project, we made sure that we had done at least half of our project before the third day of class to stay on track.
 Although our team partners divided the work, it was essential to collaborate and communicate while working on different parts of the project.
 
@@ -21,7 +21,7 @@ For this project we used a tool like [QuickDBD](https://app.quickdatabasediagram
  * contacts.csv
  * subcategory.csv
 
-### Database Folder - contains our worked related to loading our base into Postgres
+### Database Folder - contains our work related to loading our database into Postgres
 
  * Database_model.txt
  * ERD.png 
@@ -34,7 +34,7 @@ For this project we used a tool like [QuickDBD](https://app.quickdatabasediagram
  * contacts.xlsx - orginal files 
  * crowdfunding.xlsx - original files
 
-### ETL_Mini_Project_AValerio_NMarin.ipynb - contains code for extracting and transforming out data
+### ETL_Mini_Project_AValerio_NMarin.ipynb - contains code for extracting and transforming our data
 
 
 ## Collaborators
